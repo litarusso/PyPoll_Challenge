@@ -7,9 +7,6 @@ This analysis aims to help the Colorado Board of Elections employee complete the
 ## Election-Audit Results: 
 ### 369,711 votes were cast in the election.
 
-<img width="400" alt="Screen Shot 2022-11-01 at 2 18 13 PM" src="https://user-images.githubusercontent.com/111788394/199308392-88554825-b125-4f62-b6cf-43fcc3d38114.png">
-
-
 ### Candidates
 - Charles Casper Stockham
 - Diana DeGette
@@ -30,11 +27,14 @@ This analysis aims to help the Colorado Board of Elections employee complete the
 - Denver: 82.8% - 306,055 votes
 - Araphoe: 6.7% -24,801 votes
 
+<img width="400" alt="Screen Shot 2022-11-01 at 2 18 13 PM" src="https://user-images.githubusercontent.com/111788394/199308392-88554825-b125-4f62-b6cf-43fcc3d38114.png">
+
 ### The Winner
 - Diana DeGette
 <img width="292" alt="Screen Shot 2022-11-01 at 2 22 00 PM" src="https://user-images.githubusercontent.com/111788394/199309060-1ba3fe47-da37-4f58-89e6-bac8963d8974.png">
 
 ## Summary
 
-In addition, our project worked very well in analyzing this election. With some modification, we can use this project for any elections. We can change the data or add additional codes and use it repeatedly.
+In addition, our project was a success and made the analyzing process accessible and quicker with high accuracy. 
+We can repeatedly use this project for any elections with some little changes to the data or some codes.
 Our proposal for the "Pypoll Election Modul" will be sent to you by our sales department.
