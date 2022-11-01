@@ -1,5 +1,7 @@
+# PyPoll Challenge
+
 ## Overview of Election Audit: 
-The aim of this analysis is to complete the analysis started by the election for the Colorado Board of Elections employee named Tom. In addition, I have audited a recent local congressional election with them. The data were in excel; I extracted it from there and analyzed it with Python.
+The aim of this analysis is to complete the analysis started by the election for the Colorado Board of Elections employee named Tom. In addition, I have audited a recent local congressional election with him. The data were in excel; I extracted it from there and analyzed it with Python.
 
 ## Election-Audit Results: 
 ### 369,711 votes were cast in the election.
