@@ -1,8 +1,5 @@
-# Pypoll Challenge
-# New_Election_Analysis
-
 ## Overview of Election Audit: 
-This analysis aims to help the Colorado Board of Elections employee complete the election audit of a recent local congressional election and summarize it in a .txt file. We used Python for this analysis. 
+This analysis aim is to finish the election for the Colorado Board of Elections employee. In addition, I have audited a recent local congressional election with them. The data were in excel; I extracted it from there and analyzed it with Python.
 
 ## Election-Audit Results: 
 ### 369,711 votes were cast in the election.
@@ -36,5 +33,6 @@ This analysis aims to help the Colorado Board of Elections employee complete the
 ## Summary
 
 In addition, our project was a success and made the analyzing process accessible and quicker with high accuracy. 
-We can repeatedly use this project for any elections with some little changes to the data or some codes.
+We can repeatedly use this project for any elections with some changes to the data or codes. For example, we can extract data from another area or make charts to understand the results better.
 Our proposal for the "Pypoll Election Modul" will be sent to you by our sales department.
+
